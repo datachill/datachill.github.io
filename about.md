@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi, Dechao here. I am currently a data scientist at [MSD Singapore](http://www.msd-singapore.com/home/), known as [Merck](http://www.merck.com/index.html) in the US and Canada. My interests are in learning and applying latest deep learning algorithms, building data products, and big data.
+Hi, Dechao here. I am a data scientist based in Singapore. My interests are in learning and applying latest deep learning algorithms, building data products, and big data.
+
+Currently I am working for [MSD Singapore](http://www.msd-singapore.com/home/), which is known as [Merck](http://www.merck.com/index.html) in north America. 
 
 ### More Information
 
